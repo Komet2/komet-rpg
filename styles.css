@@ -160,3 +160,7 @@ th {
 td:nth-child(even) {
   background-color: #264348;
 }
+
+::selection {
+  background: #66424d;
+}
